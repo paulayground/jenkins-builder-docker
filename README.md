@@ -20,7 +20,7 @@ admin / paulayground
 ```
 
 ## 위 작업 기반으로 생성된 이미지
-docker pull paulayground/jenkins-dood
+`docker pull paulayground/jenkins-dood`
 
 ## 컨테이너 실행 후
 - 젠킨스 url 세팅 필요
