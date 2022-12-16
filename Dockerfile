@@ -1,4 +1,3 @@
-# 추후 버전 고정
 FROM jenkins/jenkins:2.375.1-jdk11
 
 USER root
