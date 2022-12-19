@@ -1,6 +1,6 @@
 up:
 	docker-compose up -d
-test:
+up-dev:
 	docker-compose up
 down:
 	docker-compose down
