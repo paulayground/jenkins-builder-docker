@@ -14,9 +14,6 @@ make test
 
 # shutdown(docker-compose down)
 make down
-
-# 젠킨스 계정
-admin / paulayground
 ```
 
 ## 위 작업 기반으로 생성된 이미지
