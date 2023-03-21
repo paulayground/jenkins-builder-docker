@@ -21,11 +21,3 @@ admin / paulayground
 
 ## 위 작업 기반으로 생성된 이미지
 `docker pull paulayground/jenkins-dood`
-
-## 컨테이너 실행 후
-- 젠킨스 url 세팅 필요
-- 젠킨스 관리자 비밀번호 변경 필요
-
-# todo
-- slack 플러그인 설치 및 이미지 업데이트
-- 다른 서버에서 설치 시 동작 이상 여부 확인
